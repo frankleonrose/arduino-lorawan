@@ -24,6 +24,11 @@
       "name": "Multi-Bandplan IBM LMIC framework",
       "version": "https://github.com/mcci-catena/arduino-lmic.git",
       "authors": ["Matthijs Kooijman <matthijs@stdin.nl>", "Terry Moore <tmm@mcci.com>"]
+    },
+    {
+      "name": "Catena MCCI ADK",
+      "version": "https://github.com/mcci-catena/Catena-mcciadk",
+      "authors": ["Terry Moore <tmm@mcci.com>"]
     }
   ],
   "version": "0.3.0",
