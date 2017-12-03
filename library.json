@@ -27,7 +27,7 @@
     },
     {
       "name": "Catena MCCI ADK",
-      "version": "https://github.com/mcci-catena/Catena-mcciadk",
+      "version": "https://github.com/mcci-catena/Catena-mcciadk.git",
       "authors": ["Terry Moore <tmm@mcci.com>"]
     }
   ],
