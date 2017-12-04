@@ -26,6 +26,7 @@
       "authors": ["Matthijs Kooijman <matthijs@stdin.nl>", "Terry Moore <tmm@mcci.com>"]
     },
     {
+      "name": "Catena MCCI Arduino Development Kit",
       "version": "https://github.com/mcci-catena/Catena-mcciadk.git",
       "authors": ["Terry Moore <tmm@mcci.com>"]
     }
